@@ -1,15 +1,52 @@
-html,
-body {
-    
+body { 
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
 }
 
-body {
-    height: 100px;
-  margin: 0;
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none; 
+    font-size: 21px;
+  /*font: helveticaNeue;
+  list-style-type: none;
+  margin: 0;    
+  padding: 0;
+  display: flex;
+  flex-direction: row-reverse;*/
 }
+
+li a {
+    margin: 0;
+    padding: 0;
+    text-decoration: none; 
+    color: #b3aca2;
+  /*display: block;
+  color: #b3aca2;
+  padding: 14px;
+  text-decoration: none;*/
+}
+
+header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 34px;
+    align-items: center; 
+}
+
+.menu {
+    display: flex; 
+}
+
+.menu li {
+    margin-left: 20px; 
+}
+
+.menu li a {
+    padding: 20px;
+}
+
 
 .gradiente {
   background: linear-gradient(180deg, #ffffff 0%, rgba(255, 255, 255, 0) 100%),
@@ -17,113 +54,79 @@ body {
 }
 
 .logo {
-  position: absolute;
-  width: 109.16px;
-  height: 32.02px;
-  left: 65px;
-  top: 2px;
-}
-
-header {
-  position: absolute;
-  width: 1634.73px;
-  height: 37px;
-
-  top: 42px;
+ 
 }
 
 nav {
 }
 
-ul {
-  font: helveticaNeue;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  flex-direction: row-reverse;
-}
-
-li a {
-  display: block;
-  color: #b3aca2;
-  padding: 14px;
-  text-decoration: none;
-}
-
 .get a {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  padding: 8px 15px;
-
-  position: absolute;
-  width: 136px;
-  height: 41px;
-  left: 1743.73px;
-  top: 2px;
-
-  /* Secondary */
-  color: #0e6fff;
-  border: 1px solid #ff4242;
-  box-sizing: border-box;
+  border: 1px solid red;
   border-radius: 4px;
+  color: #0e6fff;
 }
 
-.home {
-  padding: 210px;
-  position: absolute;
+.home { 
+  /* SECTION */
+  /*position: absolute;
   width: 1500px;
   height: 1100px;
   left: 0px;
-  top: 0px;
+  top: 0px;*/
 }
 
 .container {
   margin: 0 auto;
   max-width: 1430px;
+  margin-top: 95px;
 }
 
 .content-wrapper {
-  width: 500px;
-  height: 500px;
+  /*width: 500px;
+  height: 500px;*/
 }
 
 .title-one {
-  position: absolute;
+    margin-bottom: 178px;
+  /*position: absolute;
   width: 1607.73px;
   height: 678px;
   left: 272px;
-  top: 34px;
+  top: 34px;*/
 }
 
 .inspiration {
   /* DESIGN INPIRATION */
-
-  position: absolute;
+  font-size: 26px;
+  color: #B3ACA2;
+  text-transform: uppercase;
+  
+  /*position: absolute;
   position: absolute;
   width: 906px;
   height: 28px;
   left: 0;
   top: 311px;
-  /* FONT */
-  font-size: 26px;
-  /* DISPLAY */
+  /* FONT 
+  font-size: 26px;*/
+  /* DISPLAY 
   display: flex;
   align-items: center;
   letter-spacing: 0.11em;
-  text-transform: uppercase;
-  /* GREY */
-  color: rgba(179, 172, 162, 1);
+  text-transform: uppercase;*/
+  /* GREY 
+  color: rgba(179, 172, 162, 1);*/
 }
 
 .get-in_touch {
-  position: absolute;
+    font-size: 84px;
+    width: 100%;
+  /*position: absolute;
   width: 674px;
   height: 237px;
   left: 0;
   top: 327px;
-  font-size: 84px;
+  font-size: 84px;*/
 }
 
 .button {
@@ -131,51 +134,39 @@ li a {
   border-radius: 8px;
   border: none;
   color: white;
-
   font-size: 30px;
-  display: flex;
-  flex-direction: row;
   align-items: center;
   padding: 18px 41px;
-
-  position: absolute;
-  width: 252px;
-  height: 72px;
-  left: 0;
-  top: 750px;
+  
 }
 
 .cinza {
-  position: absolute;
+  /*position: absolute;
   width: 612px;
   height: 250px;
   left: 270px;
-  top: 1045px;
+  top: 1045px;*/
 }
 
 .verde {
-  line-height: 37.4px;
   font-size: 34px;
 }
 
 .roxa {
   display: flex;
+  align-items: center;
 }
 
 .bloco-foto {
-  width: 80px;
-  height: 114px;
+    margin: 10px;
+  
 }
 
 .foto {
-  position: absolute;
-  width: 81.51px;
-  height: 80px;
+ height: 60px;
 }
 
 .amarelo {
-  width: 303.01px;
-  height: 37px;
   font-size: 30px;
 }
 
@@ -183,11 +174,24 @@ li a {
 }
 
 .vinho {
-  width: 303.1px;
-  height: 29px;
   font-size: 24px;
 }
 
+.slider {
+  position: absolute;
+  right: 0;
+  top: 22%;
+  width: 827px;
+  height: 949px;
+}
+
+.slider-pro {
+  background-image: url("images/smart_four.png");
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
 /*
 .coments {
     border: 1px solid red;
@@ -221,21 +225,7 @@ li a {
 }
 
 */
-.slider {
-  position: absolute;
-  right: 0;
-  top: 22%;
-  width: 827px;
-  height: 949px;
-}
 
-.slider-pro {
-  background-image: url("images/smart_four.png");
-  width: 100%;
-  height: 100%;
-  background-repeat: no-repeat;
-  background-size: 100%;
-}
 
 /*
 .requeriment {

@@ -1,0 +1,43 @@
+.container-small {
+    display: flex;
+    max-width: 1430px;
+    margin: 0 auto;
+    height: 300px;
+    padding-bottom: 50px;
+    background: #FFF4D4;
+    border-radius: 12px;
+    margin-bottom: 280px;
+}
+
+.wrapper-small {
+    margin-left: 100px;
+    margin-right: 240px;
+}
+
+.title-wrapper-small {
+    font-size: 44px;
+    margin-top: 90px;
+}
+
+.text-wrapper-small {
+    font-size: 24px;
+}
+
+.box-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.heart-bottom {
+    position: absolute;
+    right: 190px;
+    top: 1047%;
+}
+
+.heart-bottom-pro {
+    background-image: url("images/heart-bottom.png");
+    width: 100%;
+    height: 100%;
+    background-size: 100%;
+}

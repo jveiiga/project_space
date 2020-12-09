@@ -1,0 +1,38 @@
+.background-blue {
+    padding-top: 528px;
+    padding-bottom: 1055px;
+    margin-bottom: -918px;
+    margin-top: -428px;
+    margin-left: 26px;
+    background: linear-gradient(90deg, #FFFFFF -45.04%, rgba(255, 255, 255, 0) 102.87%), #D8F6FF;  
+}
+
+.container_pro-more {
+    display: flex;
+    max-width: 1430px;
+    margin: 0 auto;
+}
+
+.wrapper-pro_more {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 400px;
+    
+}
+
+.video {
+    margin-right: 60px;
+}
+
+.text-best {
+    font-size: 52px;
+}
+
+.text-erat {
+    font-size: 28px;
+}
+
+.experienced {
+    color: #0E6FFF;
+}

@@ -1,0 +1,66 @@
+.container-box-text {
+    max-width: 1430px;
+    margin: 0 auto;
+    margin-bottom: 250px;
+}
+
+.box-wrapper {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.smallconcept {
+    font-size: 23px;
+    text-transform: uppercase;
+
+}
+
+.studio {
+    font-size: 64px;
+}
+
+.wrapper-box {
+    display: flex;
+
+}
+
+.box-one {
+    display: flex;
+    flex-direction: column;
+    width: 440px;
+    height: 425px;
+    padding: 10px 10px;
+    margin-right: 20px;
+    font-size: 24px;
+    border-radius: 12px 12px 0px 0px;
+    box-shadow: 10px 10px 50px 3px rgba(39, 92, 141, 0.1);
+}
+
+.box-two {
+    display: flex;
+    flex-direction: column;
+    width: 440px;
+    height: 425px;
+    padding: 10px 10px;
+    font-size: 24px;
+    border-radius: 12px 12px 0px 0px;
+    box-shadow: 10px 10px 50px 3px rgba(39, 92, 141, 0.1);
+    margin-right: 20px;
+}
+
+.box-three {
+    display: flex;
+    flex-direction: column;
+    width: 444px;
+    height: 425px;
+    padding: 10px 10px;
+    font-size: 24px;
+    border-radius: 12px 12px 0px 0px;
+    box-shadow: 10px 10px 50px 3px rgba(39, 92, 141, 0.1);
+    margin-right: 20px;
+}
+
+.name {
+    font-size: 44px;
+}

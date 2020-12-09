@@ -1,0 +1,19 @@
+.container_pro-plus {
+    display: flex;
+    max-width: 1430px;
+    margin: 0 auto;
+    margin-bottom: 250px;
+}
+
+.container-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.foryou {
+    font-size: 52px;
+}
+
+.auctor {
+    font-size: 28px;
+}

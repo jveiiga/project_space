@@ -1,0 +1,25 @@
+.container-box-four-phografe {
+    max-width: 1430px;
+    margin: 0 auto;
+    margin-bottom: 250px;
+}
+
+.wrapper-box-four-phografe {
+    text-align: center;
+}
+
+.wrapper-fotos {
+    display: flex;  
+}
+
+.title-box-four-phografe {
+    font-size: 64px;
+}
+
+.text-box-four-phografe {
+    font-size: 28px;
+}
+
+.wrapper-fotos {
+    justify-content: space-around;
+}

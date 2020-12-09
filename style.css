@@ -7,13 +7,8 @@ ul {
     margin: 0;
     padding: 0;
     list-style: none; 
-    font-size: 21px;
-  /*font: helveticaNeue;
-  list-style-type: none;
-  margin: 0;    
-  padding: 0;
-  display: flex;
-  flex-direction: row-reverse;*/
+    
+  
 }
 
 li a {
@@ -21,10 +16,6 @@ li a {
     padding: 0;
     text-decoration: none; 
     color: #b3aca2;
-  /*display: block;
-  color: #b3aca2;
-  padding: 14px;
-  text-decoration: none;*/
 }
 
 header {
@@ -36,6 +27,8 @@ header {
 }
 
 .menu {
+    
+    font-size: 21px;
     display: flex; 
 }
 
@@ -47,18 +40,23 @@ header {
     padding: 20px;
 }
 
+#home {
+  padding-top: 90px;
+  margin-top: -97px;
+  
+background: #fff4d4; /* Old browsers */
+background: -moz-linear-gradient(top,  #fff4d4 0%, #ffffff 65%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #fff4d4 0%,#ffffff 65%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #fff4d4 0%,#ffffff 65%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff4d4', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
 
-.gradiente {
-  background: linear-gradient(180deg, #ffffff 0%, rgba(255, 255, 255, 0) 100%),
-    #fff4d4;
 }
 
-.logo {
- 
+.title-one {
+  
+
 }
 
-nav {
-}
 
 .get a {
   border: 1px solid red;
@@ -66,33 +64,14 @@ nav {
   color: #0e6fff;
 }
 
-.home { 
-  /* SECTION */
-  /*position: absolute;
-  width: 1500px;
-  height: 1100px;
-  left: 0px;
-  top: 0px;*/
-}
-
 .container {
   margin: 0 auto;
   max-width: 1430px;
-  margin-top: 95px;
-}
-
-.content-wrapper {
-  /*width: 500px;
-  height: 500px;*/
+  margin-bottom: 300px;
 }
 
 .title-one {
     margin-bottom: 178px;
-  /*position: absolute;
-  width: 1607.73px;
-  height: 678px;
-  left: 272px;
-  top: 34px;*/
 }
 
 .inspiration {
@@ -100,33 +79,11 @@ nav {
   font-size: 26px;
   color: #B3ACA2;
   text-transform: uppercase;
-  
-  /*position: absolute;
-  position: absolute;
-  width: 906px;
-  height: 28px;
-  left: 0;
-  top: 311px;
-  /* FONT 
-  font-size: 26px;*/
-  /* DISPLAY 
-  display: flex;
-  align-items: center;
-  letter-spacing: 0.11em;
-  text-transform: uppercase;*/
-  /* GREY 
-  color: rgba(179, 172, 162, 1);*/
 }
 
 .get-in_touch {
     font-size: 84px;
     width: 100%;
-  /*position: absolute;
-  width: 674px;
-  height: 237px;
-  left: 0;
-  top: 327px;
-  font-size: 84px;*/
 }
 
 .button {
@@ -138,14 +95,6 @@ nav {
   align-items: center;
   padding: 18px 41px;
   
-}
-
-.cinza {
-  /*position: absolute;
-  width: 612px;
-  height: 250px;
-  left: 270px;
-  top: 1045px;*/
 }
 
 .verde {
@@ -170,9 +119,6 @@ nav {
   font-size: 30px;
 }
 
-.vermelho {
-}
-
 .vinho {
   font-size: 24px;
 }
@@ -192,44 +138,4 @@ nav {
   background-repeat: no-repeat;
   background-size: 100%;
 }
-/*
-.coments {
-    border: 1px solid red;
-    /*margin: 10px;
-    padding: 10px;
-    width: 499px;
-    height: 250px;
-    left: 270px;
-    top: 946px;
-    text-align: center;
-}
 
-.much {
-    font-size: 16pt;
-}
-
-.heart {
-    border: 1px solid brown;
-    flex-direction: row-reverse;
-}
-
-
-.ceo {
-    position: absolute;
-    width: 100.51px;
-    height: 70px;
-    left: 350px;
-    bottom: 55px;
-    /*top: 650px;
-    
-}
-
-*/
-
-
-/*
-.requeriment {
-    padding: 100px;
-}
-
-*/

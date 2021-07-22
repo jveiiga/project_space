@@ -36,7 +36,6 @@
 
    - Construção de Containers 
    - Seletores
-   - Flex-Box
    - Altura e largura 
    - Tipos de posicionamento 
    - Interpretar Layout

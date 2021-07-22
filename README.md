@@ -1,4 +1,4 @@
-<h1 align="center">Project Space<h1/>
+<h1 align="center">Project Space 📺 <h1/>
 <h3 align="center">Layout Free Figma<h3/> 
 <h3 align="center">Conceitos utilizados a partir da minha base de conhecimento (Júnior).<h3/>
 <h3 align="center">Projeto finalizado com o intuito de fornecer minha base de conhecimento para futuros recrutadores.<h3/>
@@ -10,5 +10,45 @@
 <h2 align="center"><a href="">Clique aqui para ver meu projeto final!<a/><h2> 
   
 ## 🖥  Imagem
+ 
+![_Users_jefersonveiga_Documents_new-project_project-space_index html (1)](https://user-images.githubusercontent.com/57195630/126698160-a565d12d-948f-480c-9fe6-cf74b46a505e.png)
+
+## 🌐 Linguagens e tecnologias utilizadas
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+
+## 👨🏻‍🏫 Mentoria
+
+- <a href="https://github.com/hanters">Hanter<a/>
   
-![tela]()
+## 🌱 Aprendizagem
+  
+<h3>HTML<h3/>
+  
+  - Tags
+  - Atributos 
+  - Classes
+  - Estrutura 
+  
+<h3>CSS<h3/>
+
+   - Construção de Containers 
+   - Seletores
+   - Flex-Box
+   - Altura e largura 
+   - Tipos de posicionamento 
+   - Interpretar Layout
+  
+ ## <h3>Aprender<h3/>
+    - Trabalhar com Flex-Box
+    - Entender melhor o sistema de links
+    - Organização de arquivos
+    - Aprender sobre padronização de Header e Footer
+    
+ ## Desafio
+    - Aprender sobre estrutura de código em HTML
+    - Como utilizar Classes 
+    - Como estlizar elementos em CSS
+    - Trabalhar com posicionamentos 
+
+
+ 

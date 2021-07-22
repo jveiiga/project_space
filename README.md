@@ -1,4 +1,8 @@
-<h1 align="center">Project Space 📺 <h1/>
+<h1 align="center">Project Space 📺<h1/>
+
+  <img alt="GitHub" src="https://img.shields.io/github/license/jveiiga/project_space">
+  <img alt="GitHub" src="https://img.shields.io/badge/jveiiga-project%20space-yellow">
+ 
 <h3 align="center">Layout Free Figma<h3/> 
 <h3 align="center">Conceitos utilizados a partir da minha base de conhecimento (Júnior).<h3/>
 <h3 align="center">Projeto finalizado com o intuito de fornecer minha base de conhecimento para futuros recrutadores.<h3/>

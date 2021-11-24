@@ -19,7 +19,7 @@
     
   <summary>Clique para ver imagens do projeto</summary> 
     
-  ![_Users_jefersonveiga_Documents_new-project_project-space_index html (1)](https://user-images.githubusercontent.com/57195630/126698160-a565d12d-948f-480c-9fe6-cf74b46a505e.png)  
+ ![_Users_jefersonveiga_Documents_new-project_project-space_index html (1)](https://user-images.githubusercontent.com/57195630/126698160-a565d12d-948f-480c-9fe6-cf74b46a505e.png)  
   
   </details>
 
